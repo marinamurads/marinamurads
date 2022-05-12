@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marinamurads
-- 👀 I’m interested in Frontend Web & Cloud Development 
-- 🌱 I’m currently learning Node Rest APIs & React
-- 💞️ I’m currently an intern @ Rede Globo
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning NodeJs
+- 💞️ I’m currently Software Developer I @ Rede Globo
 - 📫 marinamurads@gmail.com
 
 <!---
