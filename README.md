@@ -1,8 +1,6 @@
 <h1>Hello, I'm Marina 👋</h1>
 
 - 👩🏻‍💻 Software Developer I @ Globo 
-- 👀 I’m interested in Frontend & UI
-- 🌱 I’m currently learning TypeScript
 - 💁🏻‍♀️ Pronouns: she/her
 - 📫 marinamurads@gmail.com
 
