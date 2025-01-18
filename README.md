@@ -1,6 +1,6 @@
 <h1>Hello, I'm Marina 👋</h1>
 
-- 👩🏻‍💻 Software Developer I @ Globo 
+- 👩🏻‍💻 Software Developer
 - 💁🏻‍♀️ Pronouns: she/her
 - 📫 marinamurads@gmail.com
 
